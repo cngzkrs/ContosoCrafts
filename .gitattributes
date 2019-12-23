@@ -1,0 +1,4 @@
+*.C# linguist-detectable=true
+*.ASP.NET Core linguist-detectable=false
+*.js linguist-detectable=false
+*.xml linguist-detectable=false
